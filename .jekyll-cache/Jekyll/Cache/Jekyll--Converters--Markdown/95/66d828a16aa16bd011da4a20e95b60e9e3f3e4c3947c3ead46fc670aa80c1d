@@ -1,23 +1,4 @@
-I"`<p>在此之前我有写过一篇<a href="http://leopardpan.cn/2016/10/jekyll_tutorials1/">如何使用我博客模板的文章</a> 请先看这篇基础集成，这篇文章主要讲的是如何使用和修改我的博客主题，文章内容含以下几点：</p>
-
-<h2 id="博客特性">博客特性</h2>
-
-<ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />适配电脑、手机、平板等各屏幕</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />响应式设计</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />个性化头像</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />每篇文章自动添加打赏功能</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />支持Disqus、livere评论系统</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />支持站点总数访问统计，每篇文章访问统计</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />支持文章自动生成目录</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />支持标签分类</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />支持代码高亮</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />支持文章H1、H2、H3、H4标题样式多样化</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />支持多种三方社交icon展示，能从博客直接跳转到自己的三方社交主页</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />支持三方社交分享(facebook、twitter)</li>
-</ul>
-
-<h2 id="博客主要模块介绍">博客主要模块介绍</h2>
+I"5<h2 id="博客主要模块介绍">博客主要模块介绍</h2>
 
 <h3 id="_configyml">_config.yml</h3>
 
