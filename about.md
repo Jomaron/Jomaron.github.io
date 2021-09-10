@@ -1,8 +1,6 @@
 ---
 layout: page
-title: 关于我
-description: "Jomaron Blog"
-header-img: "images/background-cover.jpg"
+title: "关于我"
 multilingual: true
 ---
 
