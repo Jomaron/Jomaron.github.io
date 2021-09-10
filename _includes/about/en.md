@@ -1,9 +1,9 @@
-I am <strong> Jomaron</strong>, a graduate student in brain science, and a PhD candidate in Beijing Institute of Technology.
+I am Jomaron, a graduate student in brain science, and a PhD candidate in Beijing Institute of Technology.
+This is a personal blog built by [GitHub Pages](https://pages.github.com/) and [Jekyll](http://jekyll.com.cn/) ,where I record my study.
 
+##### [My resume](https://jomaron.top)
 
-##### [My resume](https://huangxuan.me/2020/05/05/pl-chart/)
-
-This is a Github page and Jekyll set up a resume
+This is a Github page and Jekyll set up a resume.
 
 ##### Appearence
 

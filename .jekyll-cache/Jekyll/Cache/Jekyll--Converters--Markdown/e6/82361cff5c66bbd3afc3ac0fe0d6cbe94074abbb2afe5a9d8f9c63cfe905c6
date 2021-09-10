@@ -1,0 +1,85 @@
+I"�<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>            &lt;!-- Language Selector --&gt;
+            &lt;select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)"&gt;
+                &lt;option value="0" selected&gt; 中文 | Chinese &lt;/option&gt;
+                &lt;option value="1"&gt; 英文 | English &lt;/option&gt;
+            &lt;/select&gt;
+</code></pre></div></div>
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+    
+    <p>Hey，我是邱万勇(Jomaron)，一枚脑科学研究生，北京理工大学博士在读。
+这是利用<a href="https://pages.github.com/">GitHub Pages</a> 与<a href="http://jekyll.com.cn/">Jekyll</a>搭建的个人博客，在此记录自己的科研学习。</p>
+
+<h5 id="个人简历"><a href="https://jomaron.top">个人简历</a></h5>
+
+<p>这个是利用Github page+Jekyll设置的个人简历。</p>
+
+<h5 id="学习与分享">学习与分享</h5>
+
+<ul>
+  <li><a href="//huangxuan.me/jsconfcn2017/">Upgrading to Progressive Web Apps</a> · <a href="http://2017.jsconf.cn/">JSConf CN 上海 2017</a></li>
+  <li>Building Progressive Web Apps · <a href="http://www.csdisummit.com/">CSDI 广州 2017</a></li>
+  <li>The State of Progressive Web App · GDG IO Redux 北京 2017</li>
+  <li>炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017</li>
+  <li><a href="//huangxuan.me/2016/11/20/sw-101-gdgdf/">Service Worker 101</a> · GDG DevFest 北京 2016</li>
+  <li><a href="//huangxuan.me/2016/10/20/pwa-qcon2016/">Progressive Web App，复兴序章</a> · <a href="http://2016.qconshanghai.com/presentation/3111">QCon 上海 2016</a></li>
+  <li>Progressive Web App 之我见 · GDG IO Redux 北京 2016</li>
+  <li><a href="//huangxuan.me/2015/12/28/css-sucks-2015/">CSS Still Sucks 2015</a> · 2015</li>
+  <li><a href="//huangxuan.me/2015/07/09/js-module-7day/">JavaScript 模块化七日谈</a> · 2015</li>
+</ul>
+
+
+</div>
+
+<!-- English Version -->
+<div class="en post-container">
+    
+    <p>I am Jomaron, a graduate student in brain science, and a PhD candidate in Beijing Institute of Technology.
+This is a personal blog built by <a href="https://pages.github.com/">GitHub Pages</a> and <a href="http://jekyll.com.cn/">Jekyll</a> ,where I record my study.</p>
+
+<h5 id="my-resume"><a href="https://jomaron.top">My resume</a></h5>
+
+<p>This is a Github page and Jekyll set up a resume</p>
+
+<h5 id="appearence">Appearence</h5>
+
+<ul>
+  <li><a href="//huangxuan.me/jsconfcn2017/">Upgrading to Progressive Web Apps</a> · <a href="http://2017.jsconf.cn/">JSConf China Shanghai 2017</a></li>
+  <li>Building Progressive Web Apps · <a href="http://www.csdisummit.com/">CSDI Guangzhou 2017</a></li>
+  <li>The State of Progressive Web App · GDG IO Redux Beijing 2017</li>
+  <li>PWA Rehashing · Baidu HQ Beijing 2017</li>
+  <li><a href="//huangxuan.me/2016/11/20/sw-101-gdgdf/">Service Worker 101</a> · GDG DevFest Beijing 2016</li>
+  <li><a href="//huangxuan.me/2016/10/20/pwa-qcon2016/">Progressive Web Apps</a> · QCon Shanghai 2016</li>
+  <li>Progressive Web App in my POV · GDG IO Redux Beijing 2016</li>
+  <li><a href="//huangxuan.me/2015/12/28/css-sucks-2015/">CSS Still Sucks 2015</a> · 2015</li>
+  <li><a href="//huangxuan.me/2015/07/09/js-module-7day/">JavaScript Modularization Journey</a> · 2015</li>
+</ul>
+
+
+</div>
+
+<section class="post-comments">
+
+<!-- 来必力City版安装代码 -->
+<div id="lv-container" data-id="city" data-uid="MTAyMC81NDIzNC8zMDcwNg==">
+	<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+
+       if (typeof LivereTower === 'function') { return; }
+
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+	</script>
+<noscript> 为正常使用来必力评论功能请激活JavaScript</noscript>
+</div>
+<!-- City版安装代码已完成 -->
+
+</section>
+
+:ET

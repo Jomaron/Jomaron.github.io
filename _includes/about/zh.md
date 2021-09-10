@@ -1,9 +1,9 @@
-Hey，我是<strong>邱万勇(Jomaron)</strong>，一枚脑科学研究生，北京理工大学博士在读。
-这是利用 < a href="https://pages.github.com/">GitHub Pages</ a> 与 < a href="http://jekyll.com.cn/">Jekyll</ a> 搭建的个人博客，在此记录自己的科研学习。
+Hey，我是邱万勇(Jomaron)，一枚脑科学研究生，北京理工大学博士在读。
+这是利用[GitHub Pages](https://pages.github.com/) 与[Jekyll](http://jekyll.com.cn/)搭建的个人博客，在此记录自己的科研学习。
 
-##### [个人简历](https://huangxuan.me/2020/05/05/pl-chart/)
+##### [个人简历](https://jomaron.top)
 
-这个是利用Github page+Jekyll设置的个人简历 
+这个是利用Github page+Jekyll设置的个人简历。
 
 
 ##### 学习与分享
