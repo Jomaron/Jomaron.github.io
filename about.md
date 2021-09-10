@@ -4,6 +4,7 @@ title: "关于我"
 multilingual: true
 ---
 
+
 {% include multilingual-sel.html %}
 
 <!-- Chinese Version -->
@@ -17,6 +18,7 @@ multilingual: true
     {% capture about_en %}{% include about/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
 </div>
+
 
 {% include comments.html %}
 
