@@ -11,9 +11,6 @@ url: "https://jomaron.top"
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
-# Comment
-{% include comments.html %}
-
 # Social
 social:
     weibo: 15117148793
