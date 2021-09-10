@@ -20,8 +20,5 @@ multilingual: true
     {{ about_en | markdownify }}
 </div>
 
-
-
-
 {% include comments.html %}
 
