@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 关于我 
+title: 关于我
+description: "Jomaron Blog"
+header-img: "images/background-cover.jpg"
 ---
 
 <div class="zh post-container">
