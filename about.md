@@ -5,8 +5,6 @@ multilingual: true
 ---
 
 
-{% include multilingual-sel.html %}
-
 <!-- Chinese Version -->
 <div class="zh post-container">
     {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
