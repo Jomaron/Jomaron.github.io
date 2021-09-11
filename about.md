@@ -4,6 +4,12 @@ title: "关于我"
 multilingual: true
 ---
 
+<div class="zh post-container">
+    <!--copied from markdown -->
+    <blockquote><p>年轻人你的职责是平整土地，而非焦虑时光，<br>
+    你做三四月的事情，在八九月自有答案。</p></blockquote>
+    
+</div>
 
 <!-- Chinese Version -->
 <div class="zh post-container">
