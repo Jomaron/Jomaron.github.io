@@ -11,11 +11,15 @@ multilingual: true
     
 </div>
 
+### Chinese version 
+
 <!-- Chinese Version -->
 <div class="zh post-container">
     {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
     {{ about_zh | markdownify }}
 </div>
+
+### English version
 
 <!-- English Version -->
 <div class="en post-container">
