@@ -33,6 +33,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 是否必要搭建Jekyll环境，有三种情况：
 
 当不想fork别人的项目（fork？不是有手就行，没意思~啥也学不到）
+
 1. If 你想自己手动 Jekyll + Github Pages 搭建个人博客，需搭建Jekyll环境。
 步骤：
 * 在Github里面new Repositoy创建新的仓库，用于构建自己的博客。
@@ -41,6 +42,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 具体过程请查看相关博文：[Jekyll + Github Pages搭建个人博客详细教程1](https://jekyllthemes.io/)
 
 当想fork别人的项目（嗯，，fork真香~）
+
 2. If 你想在创作博客的过程中能够实时的在本机预览生成的效果，也需搭建Jekyll环境。
 步骤：
 * fork别人的博客项目，并修改项目名和相关配置文件。
