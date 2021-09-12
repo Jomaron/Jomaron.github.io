@@ -10,7 +10,7 @@ tags: Blog
 本博客在[潘柏信leopardpan](https://github.com/leopardpan)基础上修改的。
 在诸多伙伴的支持下，该博客主题和相关功能还在继续更新，感谢作者以及各位贡献者。
 
-博客的全功能介绍请看[博客的全功能介绍](https://leopardpan.cn/2020/07/blog_info/)
+博客的全功能介绍请看[博客的全功能介绍](https://jomaron.top/2021/09/Blog_Function/)
 
 ## 2.0.0
 
