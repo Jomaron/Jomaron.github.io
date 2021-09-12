@@ -45,7 +45,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 * 下载使用开源主题模板。[JekyllThemes.org](http://jekyllthemes.org/)和[JekyllThemes.io](https://jekyllthemes.io/)
 * 搭建Jekyll 环境，并创建自己的博客站点。
 
-具体过程请查看相关博文：[Jekyll + Github Pages搭建个人博客详细教程1](https://jekyllthemes.io/)
+具体过程请查看相关博文：[Jekyll + Github Pages搭建个人博客详细教程1](https://zhuanlan.zhihu.com/p/87225594)
 
 当想fork别人的项目（嗯，，fork真香~）
 
@@ -57,7 +57,9 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 * 创建博客文章，通过jekyll server获取服务地址：http://localhost:4000/，并在浏览器中访问查看预览。
 * 最后commit并push到Github上。
 
-具体过程请查看相关博文：[Jekyll + Github Pages, fork搭建个人博客详细教程2](https://jekyllthemes.io/)
+具体过程请查看相关博文：[Jekyll + Github Pages, fork搭建个人博客详细教程2](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
+
+[基于 GitHub Pages 和 Jekyll 搭建个人博客的简单心得](https://www.bilibili.com/video/BV14x411t7ZU?from=search&seid=15722768050730991661&spm_id_from=333.337.0.0)
 
 3). If 你是计算机小白，只想专注于博客内容的创作，那么你也可无需Jekyll。
 
@@ -66,7 +68,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 * 创建博客文章。
 * commit并push到Github。
 
-具体过程请查看相关博文：[有手就行，搭建个人博客详细教程3](https://jekyllthemes.io/)
+具体过程请查看相关博文：[有手就行，搭建个人博客详细教程3](https://github.com/qiubaiying/qiubaiying.github.io)
 
 
 ### Windows系统下 Jekyll 的安装
@@ -98,6 +100,8 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 6. 以上安装缺一不可，然后安装Jekyll ,执行命令“gem install jekyll”,安装成功即可。
 
 jekyll的安装要求比较高，本人也是重复好多遍，装了卸，卸了装，建议有一点遗漏就重新整个过程。
+
+参考博文：[windows系统下安装jekyll](https://segmentfault.com/q/1010000013418668/a-1020000013529937)
 
 
 ### Github Pages
