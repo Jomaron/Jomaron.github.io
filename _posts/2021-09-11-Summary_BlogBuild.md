@@ -132,9 +132,9 @@ jekyll的安装要求比较高，本人也是重复好多遍，装了卸，卸�
 
 感谢以下作者的主题模板，以及详细的教程说明，喜欢的朋友可以fork，记得Star一下哦。
 
-1. [优源](https://duter2016.github.io/)，[Github地址](https://github.com/Duter2016)
+1. [优源 Blog](https://duter2016.github.io/)，[Github地址](https://github.com/Duter2016)
 2. [Hux Blog](https://huangxuan.me/)，[Github地址](https://github.com/huxpro) 
-3. [BY Blog](http://qiubaiying.vip/)，[https://github.com/qiubaiying)
+3. [BY Blog](http://qiubaiying.vip/)，[Github地址](https://github.com/qiubaiying) 
 
 
 ### 致谢
