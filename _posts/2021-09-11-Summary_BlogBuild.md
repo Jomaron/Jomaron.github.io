@@ -126,14 +126,17 @@ jekyll的安装要求比较高，本人也是重复好多遍，装了卸，卸�
 [Github 官方文档说明](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site)
 
 
-### 博客中用到的平台
+### 推荐几个优秀博客模板
 
-1. [百度统计](https://tongji.baidu.com/web/welcome/login)和[Google统计](https://marketingplatform.google.com/about/)
-2. [来必力[livere]](http://livere.com/)
-3. [Atom](https://atom.io/)
+感谢以下作者的主题模板，以及详细的教程说明，喜欢的朋友可以fork，记得Star一下哦。
+
+1. [优源](https://duter2016.github.io/)，[Github地址](https://github.com/Duter2016)
+2. [Hux Blog](https://huangxuan.me/)，[Github地址](https://github.com/huxpro) 
+3. [BY Blog](http://qiubaiying.vip/)，[https://github.com/qiubaiying)
+
 
 ### 致谢
-1. 该模板fork自[leopardpan 潘柏信](https://github.com/leopardpan)，感谢作者创作的精美主题。
+1. 本文模板fork自[leopardpan 潘柏信](https://github.com/leopardpan)，郑重感谢作者创作的精美主题。
 2. 感谢 [Jekyll](http://jekyllcn.com/)、[Github pages](https://docs.github.com/cn/pages)。
 
 ### Licence
