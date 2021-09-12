@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      个人博客介绍
+title:      个人博客搭建，概要总结
 subtitle:   一个开始
 date:       2021-9-11
 author:     Jomaron
@@ -32,7 +32,6 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 
 可查看Github pages官方文档说明：[Github pages](https://docs.github.com/cn/pages)
 
-插入图片：
 
 是否必要搭建Jekyll环境，有三种情况：
 
@@ -42,6 +41,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 * 在Github里面new Repositoy创建新的仓库，用于构建自己的博客。
 * 下载使用开源主题模板。[JekyllThemes.org](http://jekyllthemes.org/)和[JekyllThemes.io](https://jekyllthemes.io/)
 * 搭建Jekyll 环境，并创建自己的博客站点。
+
 具体过程请查看相关博文：[Jekyll + Github Pages搭建个人博客详细教程1](https://jekyllthemes.io/)
 
 当想fork别人的项目（嗯，，fork真香~）
@@ -51,6 +51,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 * 搭建Jekyll 环境。
 * 创建博客文章，通过jekyll server获取服务地址：http://localhost:4000/，并在浏览器中访问查看预览。
 * 最后commit并push到Github上。
+
 具体过程请查看相关博文：[Jekyll + Github Pages, fork搭建个人博客详细教程2](https://jekyllthemes.io/)
 
 3. If 你是计算机小白，只想专注于博客内容的创作，那么你也可无需Jekyll。
@@ -58,6 +59,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 * fork别人的博客项目，并修改项目名和相关配置文件。
 * 创建博客文章。
 * commit并push到Github。
+
 具体过程请查看相关博文：[有手就行，搭建个人博客详细教程3](https://jekyllthemes.io/)
 
 
@@ -70,7 +72,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 4. 安装Bundler
 5. 最后才能安装 Jekyll
 
-* 具体如下
+##### 具体如下
 1. Ruby的安装，进入[Jekyll官网](http://jekyllcn.com/)，打开[Jekyll 运行于Windows上](http://jekyllcn.com/docs/windows/#installation)部分，点击[Get started]按钮，进入新界面点击[Get Ruby for Windows] 按钮，进入下载界面进行Ruby的下载与安装。
 
 踩坑1. Ruby官网提供三种安装包，点击右上角[Archives](https://rubyinstaller.org/downloads/archives/) 可详细查看。根据网上教程如果单独下载安装[RubyInstallers] 与 [DevKits]，Jekyll 安装失败，更换多个版本试了很多次都不成功，很无奈！
