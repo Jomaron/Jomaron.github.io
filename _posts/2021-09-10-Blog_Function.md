@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 博客模板功能介绍
+title: 博客功能介绍
 date: 2021-09-10
 tags: jekyll   
 ---
