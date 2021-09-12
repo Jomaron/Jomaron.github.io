@@ -113,6 +113,7 @@ jekyll的安装要求比较高，本人也是重复好多遍，装了卸，卸�
  * 修改项目名同上，并修改相关_config.yml配置信息，以及相关页面信息。
  * 将项目clone到本地。
 
+推荐放弃[Github Desk](https://desktop.github.com/)客户端，改用[Atom](https://atom.io/)，可以在线编辑Markdown文件后直接commit\push项目。确实香啊~~
 
 ### 配置域名
 
