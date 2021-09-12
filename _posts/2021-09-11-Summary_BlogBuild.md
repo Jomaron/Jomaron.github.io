@@ -59,8 +59,6 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 
 具体过程请查看相关博文：[Jekyll + Github Pages, fork搭建个人博客详细教程2](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
 
-[基于 GitHub Pages 和 Jekyll 搭建个人博客的简单心得](https://www.bilibili.com/video/BV14x411t7ZU?from=search&seid=15722768050730991661&spm_id_from=333.337.0.0)
-
 3). If 你是计算机小白，只想专注于博客内容的创作，那么你也可无需Jekyll。
 
 步骤：
