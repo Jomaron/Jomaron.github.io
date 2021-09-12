@@ -18,7 +18,7 @@ tags:
 点击下面链接看效果：
 
  * [本文博客链接](https://jomaron.top/) （个人站）         
- * [Github Demo链接](https://jomaron.github.io/) （github）         
+ * [Github Demo链接](https://github.com/jomaron/jomaron.github.io) （github）         
 
 
 ### 环境搭建
@@ -33,6 +33,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 是否必要搭建Jekyll环境，有三种情况：
 
 当不想fork别人的项目（fork？不是有手就行，没意思~啥也学不到）
+
 1. If 你想自己手动 Jekyll + Github Pages 搭建个人博客，需搭建Jekyll环境。
 步骤：
 * 在Github里面new Repositoy创建新的仓库，用于构建自己的博客。
@@ -41,6 +42,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 具体过程请查看相关博文：[Jekyll + Github Pages搭建个人博客详细教程1](https://jekyllthemes.io/)
 
 当想fork别人的项目（嗯，，fork真香~）
+
 2. If 你想在创作博客的过程中能够实时的在本机预览生成的效果，也需搭建Jekyll环境。
 步骤：
 * fork别人的博客项目，并修改项目名和相关配置文件。
@@ -67,16 +69,17 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 5. 最后才能安装 Jekyll
 
 * 具体如下
+
 1. Ruby的安装，进入[Jekyll官网](http://jekyllcn.com/)，打开[Jekyll 运行于Windows上](http://jekyllcn.com/docs/windows/#installation)部分，点击[Get started]按钮，进入新界面点击[Get Ruby for Windows] 按钮，进入下载界面进行Ruby的下载与安装。
-
-踩坑1. Ruby官网提供三种安装包，点击右上角[Archives](https://rubyinstaller.org/downloads/archives/) 可详细查看。根据网上教程如果单独下载安装[RubyInstallers] 与 [DevKits]，Jekyll 安装失败，更换多个版本试了很多次都不成功，很无奈！
-
-解决方案：卸载Ruby ，下载[Ruby+Devkit Installers]安装包并安装，结果Jekyll安装成功。
+    踩坑1. Ruby官网提供三种安装包，点击右上角[Archives](https://rubyinstaller.org/downloads/archives/) 可详细查看。根据网上教程如果单独下载安装[RubyInstallers] 与 [DevKits]，Jekyll 安装失败，更换多个版本试了很多次都不成功，很无奈！
+    解决方案：卸载Ruby ，下载[Ruby+Devkit Installers]安装包并安装，结果Jekyll安装成功。
 
 2. Ruby安装完会有个选项，让你安装MSYS2，默认勾选并选择3，该过程会安装很多包，耐心等待，安装完后会让你继续选择123，直接Enter退出即可。如果开始未勾选，安装之后cmd输入“ridk install”进行MSYS2的安装也可。
-测试Ruby是否安装成功，cmd 命令运行“Ruby -v”，及“gem -v”，输出版本号即可。gem 是Ruby的一个工具包，相当于Python里面的pip。
+    测试Ruby是否安装成功，cmd 命令运行“Ruby -v”，及“gem -v”，输出版本号即可。gem 是Ruby的一个工具包，相当于Python里面的pip。
 
 3. 为确保Jekyll安装顺利，继续单独安装DevKit,官网[Jekyll官网](https://rubyinstaller.org/downloads/archives/)下载[DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe]，对应64位系统。
+
+
 4. RubyGems安装 ,[下载RubyGems](https://rubygems.org/pages/download/),下载安装包，解压到你需要的目录下，cmd运行“ruby setup.rb”执行安装。
 
 5. Bundler安装,cmd运行"gem install bundler" 执行安装。
