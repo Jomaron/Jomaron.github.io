@@ -1,4 +1,3 @@
-
 ### 博客介绍
 [jomaron](https://jomaron.top) 该博客模板的特征如下：
 
@@ -21,33 +20,41 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 
 可查看Github pages官方文档说明：[Github pages](https://docs.github.com/cn/pages)
 
-插入图片：
 
-是否必要搭建Jekyll环境，有三种情况：
+
+##### 是否必要搭建Jekyll环境，有三种情况：
 
 当不想fork别人的项目（fork？不是有手就行，没意思~啥也学不到）
-1. If 你想自己手动 Jekyll + Github Pages 搭建个人博客，需搭建Jekyll环境。
+
+1). If 你想自己手动 Jekyll + Github Pages 搭建个人博客，需搭建Jekyll环境。
+
 步骤：
 * 在Github里面new Repositoy创建新的仓库，用于构建自己的博客。
 * 下载使用开源主题模板。[JekyllThemes.org](http://jekyllthemes.org/)和[JekyllThemes.io](https://jekyllthemes.io/)
 * 搭建Jekyll 环境，并创建自己的博客站点。
-具体过程请查看相关博文：[Jekyll + Github Pages搭建个人博客详细教程1](https://jekyllthemes.io/)
+
+具体过程请查看相关博文：[Jekyll + Github Pages搭建个人博客详细教程1](https://zhuanlan.zhihu.com/p/87225594)
 
 当想fork别人的项目（嗯，，fork真香~）
-2. If 你想在创作博客的过程中能够实时的在本机预览生成的效果，也需搭建Jekyll环境。
+
+2). If 你想在创作博客的过程中能够实时的在本机预览生成的效果，也需搭建Jekyll环境。
+
 步骤：
 * fork别人的博客项目，并修改项目名和相关配置文件。
 * 搭建Jekyll 环境。
-* 创建博客文章，通过jekyll server获取服务地址：http://localhost:4000/，并在浏览器中访问查看预览。
+* 创建博客文章，通过jekyll server获取服务地址：http://localhost:4000/ ，并在浏览器中访问查看预览。
 * 最后commit并push到Github上。
-具体过程请查看相关博文：[Jekyll + Github Pages, fork搭建个人博客详细教程2](https://jekyllthemes.io/)
 
-3. If 你是计算机小白，只想专注于博客内容的创作，那么你也可无需Jekyll。
+具体过程请查看相关博文：[Jekyll + Github Pages, fork搭建个人博客详细教程2](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
+
+3). If 你是计算机小白，只想专注于博客内容的创作，那么你也可无需Jekyll。
+
 步骤：
 * fork别人的博客项目，并修改项目名和相关配置文件。
 * 创建博客文章。
 * commit并push到Github。
-具体过程请查看相关博文：[有手就行，搭建个人博客详细教程3](https://jekyllthemes.io/)
+
+具体过程请查看相关博文：[有手就行，搭建个人博客详细教程3](https://github.com/qiubaiying/qiubaiying.github.io)
 
 
 ### Windows系统下 Jekyll 的安装
@@ -59,7 +66,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 4. 安装Bundler
 5. 最后才能安装 Jekyll
 
-* 具体如下
+##### 具体如下
 1. Ruby的安装，进入[Jekyll官网](http://jekyllcn.com/)，打开[Jekyll 运行于Windows上](http://jekyllcn.com/docs/windows/#installation)部分，点击[Get started]按钮，进入新界面点击[Get Ruby for Windows] 按钮，进入下载界面进行Ruby的下载与安装。
 
 踩坑1. Ruby官网提供三种安装包，点击右上角[Archives](https://rubyinstaller.org/downloads/archives/) 可详细查看。根据网上教程如果单独下载安装[RubyInstallers] 与 [DevKits]，Jekyll 安装失败，更换多个版本试了很多次都不成功，很无奈！
@@ -67,9 +74,11 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 解决方案：卸载Ruby ，下载[Ruby+Devkit Installers]安装包并安装，结果Jekyll安装成功。
 
 2. Ruby安装完会有个选项，让你安装MSYS2，默认勾选并选择3，该过程会安装很多包，耐心等待，安装完后会让你继续选择123，直接Enter退出即可。如果开始未勾选，安装之后cmd输入“ridk install”进行MSYS2的安装也可。
-测试Ruby是否安装成功，cmd 命令运行“Ruby -v”，及“gem -v”，输出版本号即可。gem 是Ruby的一个工具包，相当于Python里面的pip。
+
+    * 测试Ruby是否安装成功，cmd 命令运行“Ruby -v”，及“gem -v”，输出版本号即可。gem 是Ruby的一个工具包，相当于Python里面的pip。
 
 3. 为确保Jekyll安装顺利，继续单独安装DevKit,官网[Jekyll官网](https://rubyinstaller.org/downloads/archives/)下载[DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe]，对应64位系统。
+
 4. RubyGems安装 ,[下载RubyGems](https://rubygems.org/pages/download/),下载安装包，解压到你需要的目录下，cmd运行“ruby setup.rb”执行安装。
 
 5. Bundler安装,cmd运行"gem install bundler" 执行安装。
@@ -77,6 +86,8 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 6. 以上安装缺一不可，然后安装Jekyll ,执行命令“gem install jekyll”,安装成功即可。
 
 jekyll的安装要求比较高，本人也是重复好多遍，装了卸，卸了装，建议有一点遗漏就重新整个过程。
+
+参考博文：[windows系统下安装jekyll](https://segmentfault.com/q/1010000013418668/a-1020000013529937)
 
 
 ### Github Pages
@@ -90,6 +101,7 @@ jekyll的安装要求比较高，本人也是重复好多遍，装了卸，卸�
  * 修改项目名同上，并修改相关_config.yml配置信息，以及相关页面信息。
  * 将项目clone到本地。
 
+推荐放弃[Github Desk](https://desktop.github.com/)客户端，改用[Atom](https://atom.io/)，可以在线编辑Markdown文件后直接commit\push项目。确实香啊~~
 
 ### 配置域名
 
@@ -105,14 +117,18 @@ jekyll的安装要求比较高，本人也是重复好多遍，装了卸，卸�
 [Github 官方文档说明](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site)
 
 
-### 博客中用到的平台
-1. 百度统计和Google统计
-2. 来必力
-3. Atom
+### 推荐几个优秀博客模板
+
+感谢以下作者的主题模板，以及详细的教程说明，喜欢的朋友可以fork，记得Star一下哦。
+
+1. [优源 Blog](https://duter2016.github.io/)，[Github地址](https://github.com/Duter2016)
+2. [Hux Blog](https://huangxuan.me/)，[Github地址](https://github.com/huxpro) 
+3. [BY Blog](http://qiubaiying.vip/)，[Github地址](https://github.com/qiubaiying) 
+
 
 ### 致谢
-1. 该模板fork自[leopardpan 潘柏信](https://github.com/leopardpan)，感谢作者创作的精美主题。
-
+1. 本文模板fork自[leopardpan 潘柏信](https://github.com/leopardpan)，郑重感谢作者创作的精美主题。
+2. 感谢 [Jekyll](http://jekyllcn.com/)、[Github pages](https://docs.github.com/cn/pages)。
 
 ### Licence
 
