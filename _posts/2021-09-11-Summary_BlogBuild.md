@@ -54,7 +54,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 步骤：
 * fork别人的博客项目，并修改项目名和相关配置文件。
 * 搭建Jekyll 环境。
-* 创建博客文章，通过jekyll server获取服务地址：http://localhost:4000/，并在浏览器中访问查看预览。
+* 创建博客文章，通过jekyll server获取服务地址：http://localhost:4000/ ，并在浏览器中访问查看预览。
 * 最后commit并push到Github上。
 
 具体过程请查看相关博文：[Jekyll + Github Pages, fork搭建个人博客详细教程2](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
