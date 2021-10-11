@@ -16,7 +16,7 @@ title: 学术交流
 <h3> 欢迎志同道合的同伴交流学习 </h3>
 
 <p> 
-CSDN:[本文博客链接](https://blog.csdn.net/qiu1440528444/)      
+CSDN:[Blog](https://blog.csdn.net/qiu1440528444/)      
 <p> 
 <p> 
 Github: [jomaron](https://jomaron.github.io/)    
