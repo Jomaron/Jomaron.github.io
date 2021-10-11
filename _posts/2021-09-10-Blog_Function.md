@@ -1,10 +1,6 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: 本博客功能介绍
-=======
 title: 博客功能介绍
->>>>>>> b59f4e5acc0ba4d3679268ba16af00fd42a2d351
 date: 2021-09-10
 tags: jekyll   
 ---

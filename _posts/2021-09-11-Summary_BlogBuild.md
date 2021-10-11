@@ -45,7 +45,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 * 下载使用开源主题模板。[JekyllThemes.org](http://jekyllthemes.org/)和[JekyllThemes.io](https://jekyllthemes.io/)
 * 搭建Jekyll 环境，并创建自己的博客站点。
 
-具体过程请查看相关博文：[Jekyll + Github Pages搭建个人博客详细教程1](https://jekyllthemes.io/)
+具体过程请查看相关博文：[Jekyll + Github Pages搭建个人博客详细教程1](https://zhuanlan.zhihu.com/p/87225594)
 
 当想fork别人的项目（嗯，，fork真香~）
 
@@ -54,10 +54,10 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 步骤：
 * fork别人的博客项目，并修改项目名和相关配置文件。
 * 搭建Jekyll 环境。
-* 创建博客文章，通过jekyll server获取服务地址：http://localhost:4000/，并在浏览器中访问查看预览。
+* 创建博客文章，通过jekyll server获取服务地址：http://localhost:4000/ ，并在浏览器中访问查看预览。
 * 最后commit并push到Github上。
 
-具体过程请查看相关博文：[Jekyll + Github Pages, fork搭建个人博客详细教程2](https://jekyllthemes.io/)
+具体过程请查看相关博文：[Jekyll + Github Pages, fork搭建个人博客详细教程2](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
 
 3). If 你是计算机小白，只想专注于博客内容的创作，那么你也可无需Jekyll。
 
@@ -66,7 +66,7 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 * 创建博客文章。
 * commit并push到Github。
 
-具体过程请查看相关博文：[有手就行，搭建个人博客详细教程3](https://jekyllthemes.io/)
+具体过程请查看相关博文：[有手就行，搭建个人博客详细教程3](https://github.com/qiubaiying/qiubaiying.github.io)
 
 
 ### Windows系统下 Jekyll 的安装
@@ -99,6 +99,8 @@ Jekyll 与 Github Pages到底什么关系？如果一开始没搞清这一点，
 
 jekyll的安装要求比较高，本人也是重复好多遍，装了卸，卸了装，建议有一点遗漏就重新整个过程。
 
+参考博文：[windows系统下安装jekyll](https://segmentfault.com/q/1010000013418668/a-1020000013529937)
+
 
 ### Github Pages
 
@@ -111,6 +113,7 @@ jekyll的安装要求比较高，本人也是重复好多遍，装了卸，卸�
  * 修改项目名同上，并修改相关_config.yml配置信息，以及相关页面信息。
  * 将项目clone到本地。
 
+推荐放弃[Github Desk](https://desktop.github.com/)客户端，改用[Atom](https://atom.io/)，可以在线编辑Markdown文件后直接commit\push项目。确实香啊~~
 
 ### 配置域名
 
@@ -126,14 +129,17 @@ jekyll的安装要求比较高，本人也是重复好多遍，装了卸，卸�
 [Github 官方文档说明](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site)
 
 
-### 博客中用到的平台
+### 推荐几个优秀博客模板
 
-1. [百度统计](https://tongji.baidu.com/web/welcome/login)和[Google统计](https://marketingplatform.google.com/about/)
-2. [来必力[livere]](http://livere.com/)
-3. [Atom](https://atom.io/)
+感谢以下作者的主题模板，以及详细的教程说明，喜欢的朋友可以fork，记得Star一下哦。
+
+1. [优源 Blog](https://duter2016.github.io/)，[Github地址](https://github.com/Duter2016)
+2. [Hux Blog](https://huangxuan.me/)，[Github地址](https://github.com/huxpro) 
+3. [BY Blog](http://qiubaiying.vip/)，[Github地址](https://github.com/qiubaiying) 
+
 
 ### 致谢
-1. 该模板fork自[leopardpan 潘柏信](https://github.com/leopardpan)，感谢作者创作的精美主题。
+1. 本文模板fork自[leopardpan 潘柏信](https://github.com/leopardpan)，郑重感谢作者创作的精美主题。
 2. 感谢 [Jekyll](http://jekyllcn.com/)、[Github pages](https://docs.github.com/cn/pages)。
 
 ### Licence
