@@ -19,7 +19,7 @@ title: 学术交流
 CSDN：[Blog](https://blog.csdn.net/qiu1440528444/)      
 
 
-Github：[jomaron](https://jomaron.github.io/)
+Github：[jomaron](https://github.com/jomaron/)
 
 
 E-mail：qiuwy8023@163.com     
