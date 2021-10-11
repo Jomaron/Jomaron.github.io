@@ -1,9 +1,9 @@
-Hey，我是邱万勇(Jomaron)，一枚脑科学研究生，北京理工大学博士在读。
+Hey，我是邱万勇(Jomaron)，BIT脑健康工程团队成员，PhD Student。
 这是利用[GitHub Pages](https://pages.github.com/) 与[Jekyll](http://jekyll.com.cn/)搭建的个人博客，在此记录自己的科研学习。
 
-##### [个人简历](https://jomaron.top)
+##### [ResearchGate](https://www.researchgate.net/profile/Wanyong-Qiu)
 
-这个是利用Github page+Jekyll设置的个人简历。
+ResearchGate是一个科研社交网络服务平台
 
 
 ##### 学习与分享
