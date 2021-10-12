@@ -1,9 +1,9 @@
 Hey，我是邱万勇(Jomaron)，BIT脑健康工程团队成员，PhD Student。
 这是利用[GitHub Pages](https://pages.github.com/) 与[Jekyll](http://jekyll.com.cn/)搭建的个人博客，在此记录自己的科研学习。
 
-##### [ResearchGate](https://www.researchgate.net/profile/Wanyong-Qiu)
+##### [ResearchGate](https://www.researchgate.net/)
 
-ResearchGate是一个科研社交网络服务平台
+ResearchGate是一个科研社交网络服务平台，欢迎访问交流[ResearchGate](https://www.researchgate.net/profile/Wanyong-Qiu)
 
 
 ##### 学术会议
@@ -28,4 +28,3 @@ ResearchGate是一个科研社交网络服务平台
 [7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
 [8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
 [9]: http://vmware.cevent.com.cn/
-

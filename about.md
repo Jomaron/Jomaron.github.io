@@ -9,7 +9,7 @@ multilingual: true
     <blockquote><p>年轻人你的职责是平整土地，而非焦虑时光，<br>
     你做三四月的事情，在八九月自有答案。<br>
                                    --Motto</p></blockquote>
-    
+
 </div>
 
 ###  Hey~
@@ -30,4 +30,3 @@ multilingual: true
 
 
 {% include comments.html %}
-

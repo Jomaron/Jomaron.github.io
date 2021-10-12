@@ -1,9 +1,9 @@
 Hey, I'm Jomaron, a postgraduate student in brain science, PhD candidate in Beijing Institute of Technology.
 This is a personal blog built by [GitHub Pages](https://pages.github.com/) and [Jekyll](http://jekyll.com.cn/) ,where I record my research and learning.
 
-##### [ResearchGate](https://www.researchgate.net/profile/Wanyong-Qiu)
+##### [ResearchGate](https://www.researchgate.net/)
 
-ResearchGate is a social networking service for research.
+ResearchGate is a social networking service for research.[Wanyong-Qiu](https://www.researchgate.net/profile/Wanyong-Qiu)
 
 ##### Appearence
 
