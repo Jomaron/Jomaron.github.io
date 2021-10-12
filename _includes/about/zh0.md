@@ -3,7 +3,7 @@
 
 相关学习资源存储于CSDN、Github、百度云平台。
 
-- 差分隐私保护课件[1] · [CSDN下载](https://download.csdn.net/download/qiu1440528444/12914947)
+- [差分隐私保护课件][1] · [CSDN下载](https://download.csdn.net/download/qiu1440528444/12914947)
 - k-均值（k-means）-Matlab静态实现 · [k-means](https://download.csdn.net/download/qiu1440528444/10486647)
 - k-均值（k-means）-Matlab动态实现 · [k-means](https://download.csdn.net/download/qiu1440528444/10486631)
 - k-中心点算法-Matlab代码实现 · [k-medoids](https://download.csdn.net/download/qiu1440528444/10486659)
