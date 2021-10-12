@@ -22,9 +22,8 @@ title: 学术交流
 
 <h3> 交流 </h3>
 
-CSDN：[Blog](https://blog.csdn.net/qiu1440528444/)      
-Github：[jomaron](https://github.com/jomaron/)
-E-mail：qiuwy8023@163.com
-QQ: 1440528444     
+CSDN：[Blog](https://blog.csdn.net/qiu1440528444/)    /  Github：[jomaron](https://github.com/jomaron/)
+
+E-mail：qiuwy8023@163.com / QQ: 1440528444     
 
 {% include comments.html %}
