@@ -13,17 +13,18 @@ title: 学术交流
 * 自监督学习
 * 联邦学习（横向、纵向、联邦迁移）
 
-<h3> 欢迎志同道合的同伴交流学习 </h3>
+<h3> 学习与分享 </h3>
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture about_zh0 %}{% include about/zh0.md %}{% endcapture %}
+    {{ about_zh0 | markdownify }}
+</div>
 
+<h3> 交流 </h3>
 
 CSDN：[Blog](https://blog.csdn.net/qiu1440528444/)      
-
-
 Github：[jomaron](https://github.com/jomaron/)
-
-
 E-mail：qiuwy8023@163.com     
-
 QQ: 1440528444     
 
 
