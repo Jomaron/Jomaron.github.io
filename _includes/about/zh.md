@@ -6,7 +6,7 @@ Hey，我是邱万勇(Jomaron)，BIT脑健康工程团队成员，PhD Student。
 ResearchGate是一个科研社交网络服务平台
 
 
-##### 学习与分享
+##### 学术会议
 
 - [AI x Cloud Native x Edge Computing][9] · [智能云边开源峰会-线上直播(参会) 2021](http://vmware.cevent.com.cn/)
 - 杨强教授：2021联邦学习专题研讨会 · [An Introducton to Federated Learning](https://www.bilibili.com/video/BV1P44y167rg/)
