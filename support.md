@@ -15,16 +15,16 @@ title: 学术交流
 
 <h3> 欢迎志同道合的同伴交流学习 </h3>
 
-<p>
+
 CSDN：[Blog](https://blog.csdn.net/qiu1440528444/)      
-<p>
-<p>
-Github：[jomaron](https://jomaron.github.io/)
-<p>
-<p>
+
+
+Github：[jomaron](https://github.com/jomaron/)
+
+
 E-mail：qiuwy8023@163.com     
-<p>
+
 QQ: 1440528444     
-<p>
+
 
 {% include comments.html %}

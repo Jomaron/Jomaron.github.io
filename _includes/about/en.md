@@ -8,9 +8,10 @@ ResearchGate is a social networking service for research.
 ##### Appearence
 
 - [AI x Cloud Native x Edge Computing][9] · [Online (conference) 2021](http://vmware.cevent.com.cn/)
+- Professor Yang's Seminar Presentation on June 2, 2021 · [An Introducton to Federated Learning](https://cn.fedai.org/book-courses/)
 - Federal Learning Of FATE introduction and Application · [FedAI 2020](https://cn.fedai.org/book-courses/)
-- The life I want, there's no shortcut · ID Redux 兰州 2020
-- What does scientific research mean?· NWNU 兰州 2020
+- The life I want, there's no shortcut · ID LanZhou 2020
+- What does scientific research mean?· NWNU LanZhou 2020
 - [Service Worker 101][5] · GDG DevFest Beijing 2016
 - [Progressive Web Apps][4] · QCon Shanghai 2016
 - Progressive Web App in my POV · GDG IO Redux Beijing 2016
